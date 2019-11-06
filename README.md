@@ -23,8 +23,8 @@ What is the relationship between factors about an AirBnB (neighborhood, room typ
 ## Table of Contents
 * Included in this repository:
     * [Data](./data)
-    * [Data Dictionary](./code/01-data-dictionary)
-    * [EDA](./code/02-eda-airbnb)
+    * [Data Dictionary](./code/01-data-dictionary.ipynb)
+    * [EDA](./code/02-eda-airbnb.ipynb)
 * [Intended Audience](Intended-Audience)
 * [Data Description](Data-Description)
 * [Methodology](Methodology)
