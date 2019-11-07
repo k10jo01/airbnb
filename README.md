@@ -18,6 +18,8 @@ There is a lot to be explored around the AirBnB data of Washington, D.C. I'd lik
 ## Problem Statement
 What is the relationship between factors about an AirBnB (neighborhood, room type, availability) and review sentiment? What trends or patterns can be found in AirBnB data for Washington, D.C. over time? Does review sentiment have an impact on price of an AirBnB listing? Using past price and calendar information and sentiment analysis of reviews, can you predict the price of listings for future significant events in the District? For example, the price of AirBnB listings during the Women's March, Trump inauguration, Obama inauguration, Cherry Blossom festivals, Kavanaugh hearing, Rock n Roll and Marine Corp Marathons, Caps Stanley Cup games, Nats World Series games, conferences, etc. 
 
+*I know this problem statement is quite broad and needs more specificity. I discuss how I will refine this in the Roadmap section below.*
+
 ---
 
 ## Table of Contents
@@ -57,27 +59,40 @@ There are criticisms of AirBnB and its effect on poverty and the housing and ren
 ---
 
 ## Methodology
-Outlines your proposed methods and models
+Time series analysis and models
+
+Natural Language Processing and vectorizers and sentiment analysis
 
 ---
 
 ## Preliminary EDA
-Performs & summarizes preliminary EDA of your data
 
 **Current**
+Current EDA can be found in the 02-eda-airbnb code notebook. In this notebook, I read in all of the data, looked at the shape, and became familiar with the features of each data set that I have. I checked for null values in each data set. I also made comments to or further explored some of the features. I made note of any initial things that stuck out like a high volume of reviews left in March-April 2019 or variable categories that I wasn't sure of the meaning of. 
+
 
 **Next Steps for EDA**
-There is a lot more to be done in terms of EDA and the different things I want to do with the data.
+
+There is a lot more to be done in terms of EDA and the different things I want to do with the data. I have added these ideas and questions as markdown notes throughout my EDA code file. In addition to the notes in the EDA code file, I also learned that there are archives of this data on the InsideAirBnB site. I will collect the archives of the calendar dataset so that I can establish a time series dataset of the prices. Once I have that, there will be additional data wrangling and EDA to complete. Once my EDA is complete, I will make a decision on what exact models I will use. 
 
 
+**Risks and Assumptions**
 
-Defines the risks & assumptions of your data
 
 
 ---
 
 ## Roadmap 
-Revises initial goals & success criteria, as needed
+The following is the process I intend to follow going forward for this project: 
+
+1. Collect additional calendar archive data.
+2. Continue with EDA
+3. Modeling and Metrics Evaluation
+4. Visualizations
+5. Draw Conclusions and Recommendations
+6. Presentation/technical report/ReadMe 
+
+Once I am able to get step one completed and further along with step two, I will go back to my problem statement and work to revise this and perhaps reduce my scope (I know it is quite broad at this time).
 
 ---
 
