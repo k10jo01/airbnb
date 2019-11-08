@@ -1,5 +1,7 @@
 # The State of AirBnB in Washington, D.C.
 
+This repository is for the capstone project I prepared as a Data Science Immersive student at General Assembly. 
+
 ---
 
 ## Executive Summary
