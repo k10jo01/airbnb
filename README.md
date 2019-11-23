@@ -22,6 +22,13 @@ What is the relationship between factors about an AirBnB (neighborhood, room typ
 
 *I know this problem statement is quite broad and needs more specificity. I discuss how I will refine this in the Roadmap section below.*
 
+Something about predicting price or listings after new regulation in DC? or when short term rental exacerbating housing shortages started? 
+
+More focused questions:
+-factors that differentiate good reviews and bad reviews (and by proxy, good hosts and bad hosts) - helpful for airbnb to market to their hosts or helpful for hosts or helpful for guests
+-factors that influence daily renting price and/or predict daily renting price? - helpful for hosts, guests, airbnb
+-is review sentiment a good predictor of price? 
+
 ---
 
 ## Table of Contents
@@ -57,6 +64,12 @@ InsideAirbnb.com has information on AirBnB listings in cities around the globe, 
 The information on InsideAirBnB.com is updated monthly. This means that near the time of the Capstone presentations and Spotlight presentations, I will have access to an additional two months worth of data to use as a validation dataset. 
 
 There are criticisms of AirBnB and its effect on poverty and the housing and rental industry in cities across the world. This is what prompted the data collection and analysis which makes up InsideAirbnb. I am only using their datasets, not their analysis as I hope to do some of this on my own. 
+
+---
+
+## Additional Research
+DC local government passed a law on October 31, 2019 place stricter regulations on short-term rentals. DC property owners are not permitted to rent out second homes on a short-term basis, and a host cannot rent out spare bedrooms or basement rooms of their primary residence for more than 90 days a year
+https://www.washingtonpost.com/local/dc-politics/frustrated-airbnb-hosts-wait-for-dc-to-explain-new-regulations/2019/10/31/88293190-fa83-11e9-8190-6be4deb56e01_story.html
 
 ---
 
@@ -96,7 +109,13 @@ The following is the process I intend to follow going forward for this project:
 
 Once I am able to get step one completed and further along with step two, I will go back to my problem statement and work to revise this and perhaps reduce my scope (I know it is quite broad at this time).
 
+## Analytical Findings
+
+Review volume (number of reviews left) has increased over time
+
 ---
 
 ## Resources
 * [InsideAirBnB](http://insideairbnb.com/get-the-data.html)
+
+https://towardsdatascience.com/digging-into-airbnb-data-reviews-sentiments-superhosts-and-prices-prediction-part1-6c80ccb26c6a
