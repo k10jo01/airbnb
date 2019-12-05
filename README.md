@@ -131,11 +131,13 @@ Similar to the plots above, each line represents a different year of review volu
 
 **Review Volumes 2016**
 If we look specifically at the volume for 2016, you’ll notice only one label. In my research of D.C. events, I could not find specific events for five of the six dates that are noted on the plot. However, the one that is labeled represents the opening of the National Museum of African American History & Culture. Five of the seven weekends that followed that opening saw spikes in the review volume, which might suggest an increase in traffic related to the museum opening.
-![alt text](./images/events_09-16.png)
+
+![alt text](./images/events_16.png)
 
 
 Additionally, if you separate 2018 on its own, you can more clearly see the spikes in review volume as it relates to the events of that year.
-![alt text](./images/events_09-18.png)
+
+![alt text](./images/events_18.png)
 
 There is a relationship between AirBnB review volume and major events taking place in a city. An AirBnB host that lists a spare bedroom or apartment a limited number of times per year might have a better occupancy rate if those times coincide with major events in their city. 
 
